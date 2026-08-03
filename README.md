@@ -45,7 +45,7 @@ Follow the steps below to set up and run the Exam Portal locally.
 
 1. Clone the repository:
 
-   git clone [https://github.com/NikKnez/ExamPortal.git](https://github.com/NikKnez/Exam_Portal_Project)
+   git clone [https://github.com/vipul-tech/assessment-platform](https://github.com/vipul-tech/assessment-platform/tree/main)
    
 
 2. Start the application using Docker Compose:
@@ -63,21 +63,24 @@ Follow the steps below to set up and run the Exam Portal locally.
 
 ## Screenshots
 
-![Screenshot_1](frontend/src/images/Screenshot_1.png)
+![Screenshot_1](images/1.loginPage.png)
 
-![Screenshot_2](frontend/src/images/Screenshot_2.png)
+![Screenshot_1](images/2.adminAddCourse.png)
 
-![Screenshot_3](frontend/src/images/Screenshot_3.png)
+![Screenshot_1](images/3.adminAllStudents.png)
 
-![Screenshot_4](frontend/src/images/Screenshot_4.png)
+![Screenshot_1](images/4.teacherAllCourses.png)
 
-![Screenshot_5](frontend/src/images/Screenshot_5.png)
+![Screenshot_1](images/5.teacherProfile.png)
 
-![Screenshot_6](frontend/src/images/Screenshot_6.png)
+![Screenshot_1](images/6.registerStudent.png)
+
+![Screenshot_1](images/7.ongoingExam.png)
+
+![Screenshot_1](images/8.examresults.png)
+
+![Screenshot_1](images/9.studentProfile.png)
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
-
-
-**Developed by [NikKnez](https://github.com/NikKnez)**
+**Developed by [Vipul Kumar](https://github.com/vipul-tech)**
